@@ -49,7 +49,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/jason/proprietary/vendor/firmware/a530_pfp.fw:$(TARGET_COPY_OUT_VENDOR)/firmware/a530_pfp.fw \
     vendor/xiaomi/jason/proprietary/vendor/firmware/a530_pm4.fw:$(TARGET_COPY_OUT_VENDOR)/firmware/a530_pm4.fw \
     vendor/xiaomi/jason/proprietary/vendor/firmware/cpp_firmware_v1_12_0.fw:$(TARGET_COPY_OUT_VENDOR)/firmware/cpp_firmware_v1_12_0.fw \
-    vendor/xiaomi/jason/proprietary/vendor/lib/hw/keystore.sdm660.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/keystore.sdm660.so \
     vendor/xiaomi/jason/proprietary/vendor/lib/libSonyIMX386PdafLibrary.so:$(TARGET_COPY_OUT_VENDOR)/lib/libSonyIMX386PdafLibrary.so \
     vendor/xiaomi/jason/proprietary/vendor/lib/libactuator_jason_imx386_ak7372_semco.so:$(TARGET_COPY_OUT_VENDOR)/lib/libactuator_jason_imx386_ak7372_semco.so \
     vendor/xiaomi/jason/proprietary/vendor/lib/libactuator_jason_imx386_ak7374_ofilm.so:$(TARGET_COPY_OUT_VENDOR)/lib/libactuator_jason_imx386_ak7374_ofilm.so \
